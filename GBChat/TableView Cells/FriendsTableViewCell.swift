@@ -30,11 +30,6 @@ class FriendsTableViewCell: UITableViewCell {
         }
     }
     
-    override func awakeFromNib() {
-        super.awakeFromNib()
-        // Initialization code
-    }
-
     override func layoutIfNeeded() {
         super.layoutIfNeeded()
     }
